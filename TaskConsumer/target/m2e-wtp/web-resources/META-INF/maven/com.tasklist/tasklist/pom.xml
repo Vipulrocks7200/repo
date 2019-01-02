@@ -5,7 +5,7 @@
 	<artifactId>tasklist</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>springmvcexample Maven REST Webapp</name>
+	<name>Spring Maven REST Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 	
